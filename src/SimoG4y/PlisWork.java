@@ -11,4 +11,9 @@ package SimoG4y;
  */
 public class PlisWork {
     
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Hello world!");
+        System.out.println("Plis help");
+    }
 }
