@@ -16,5 +16,7 @@ public class PlisWork {
         System.out.println("Hello world!");
         System.out.println("Plis help");
         System.out.println("Pepe");
+        for(int i=0;i<10;i++)
+            System.out.print("Far l'amore da triste in giù");
     }
 }
