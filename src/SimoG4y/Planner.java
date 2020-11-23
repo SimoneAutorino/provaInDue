@@ -15,6 +15,8 @@ public class Planner {
     private int id;
     
     public void doSomething(){
-    System.out.println("Dodo scooby do");}
+    System.out.println("Dodo scooby do");
+    }
+    
     
 }
