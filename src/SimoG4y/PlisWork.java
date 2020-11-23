@@ -18,5 +18,6 @@ public class PlisWork {
         System.out.println("Pepe");
         for(int i=0;i<10;i++)
             System.out.print("Far l'amore da triste in giù");
+        System.out.println("Azz 10 volte l'amore!");
     }
 }
