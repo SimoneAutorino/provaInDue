@@ -6,7 +6,8 @@ public class App {
         System.out.println("Bungee jumping");
         System.out.println(" jumping");
         System.out.println("Bungee");
-        
+        System.err.println("mannagg");
+        System.out.println();
     }
 }
 
