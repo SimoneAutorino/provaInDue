@@ -16,5 +16,6 @@ public class PlisWork {
         System.out.println("Hello world!");
         System.out.println("Plis help");
         System.out.println("no");
+        System.out.println("dai funziona");
     }
 }
