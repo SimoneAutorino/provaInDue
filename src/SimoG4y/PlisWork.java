@@ -28,5 +28,7 @@ public class PlisWork {
         System.out.println("Azz 10 volte l'amore!");
         System.out.println("pepe");
         System.out.println("afammocc");
+        System.err.println();
+        
     }
 }
